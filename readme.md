@@ -1,7 +1,7 @@
 ## 当前项目的说明书
 
 
-# hello githut
+# hello github
 >hello world
 
 
